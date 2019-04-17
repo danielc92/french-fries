@@ -7,9 +7,6 @@ Contains images and annotations in XML format extracted from Google's Open Image
 git clone https://github.com/danielc92/french-fries.git
 ```
 
-# Tests
-- Tests performed on this project. What did you do? Which files were used? Was it successful?
-
 # Contributors
 - Daniel Corcoran
 
