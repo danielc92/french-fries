@@ -1,0 +1,52 @@
+
+<annotation>
+    <folder>French fries</folder>
+    <filename>d6cc1bdf0833613d.jpg</filename>
+    <path>/path/to/the/file/d6cc1bdf0833613d.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1024</width>
+        <height>683</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>French fries</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>478</xmin>
+            <ymin>554</ymin>
+            <xmax>677</xmax>
+            <ymax>667</ymax>
+        </bndbox>
+</object>
+<object>
+        <name>French fries</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>455</xmin>
+            <ymin>211</ymin>
+            <xmax>711</xmax>
+            <ymax>613</ymax>
+        </bndbox>
+</object>
+<object>
+        <name>French fries</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>485</xmin>
+            <ymin>114</ymin>
+            <xmax>602</xmax>
+            <ymax>170</ymax>
+        </bndbox>
+</object>
+
+</annotation>

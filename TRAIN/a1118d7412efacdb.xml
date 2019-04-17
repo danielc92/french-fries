@@ -1,0 +1,28 @@
+
+<annotation>
+    <folder>French fries</folder>
+    <filename>a1118d7412efacdb.jpg</filename>
+    <path>/path/to/the/file/a1118d7412efacdb.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1024</width>
+        <height>758</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>French fries</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>61</xmin>
+            <ymin>90</ymin>
+            <xmax>697</xmax>
+            <ymax>501</ymax>
+        </bndbox>
+</object>
+
+</annotation>
